@@ -3,7 +3,7 @@ import { Card, Icon, Image } from 'semantic-ui-react'
 
 const CardExampleCard = () => (
   <Card>
-    <Image src='/images/avatar/large/matthew.png' />
+    <Image src='https://www.fillmurray.com/640/360' />
     <Card.Content>
       <Card.Header>Matthew</Card.Header>
       <Card.Meta>
